@@ -1,6 +1,9 @@
 # 📦 jsFlake
 
-![](https://c.tenor.com/OVzhLV_IRkwAAAAd/twice-the-feels.gif)
+<h1>
+  <img src="https://i.imgur.com/qVp1N9y.png">
+</h1>
+
 
 ## ✨ About
 
