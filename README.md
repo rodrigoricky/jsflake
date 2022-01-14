@@ -9,20 +9,11 @@
 
 **jsFlake** is a personalized and was originally planned for closed-source, but I have decided to make it open-source. So, what is jsFlake? jsFlake is a Discord Bot that was for being my personal assistant, since I use Discord a lot, I have decided to make a bot that can assist me with my daily life by arranging my schedule, and even handle my API that is also for everyone!
 
-## 💡 Deployment
-
-Deployment is not currently in use
-
 ## 💻 Built with
 
 - TypeScript
 - JavaScript
 - MongoDB
-
-
-## 🍃 How to Setup
-
-`Repository is currently on work-in-progress`
 
 ## 👨‍💻 Developed By
 
