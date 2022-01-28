@@ -15,7 +15,7 @@ export default class HelpCommand extends Command {
             name: 'help',
             group: 'General',
             description: 'Shows information about commands and groups.',
-            cooldown: 30
+            cooldown: 10
         });
     }
 
