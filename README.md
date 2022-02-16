@@ -1,3 +1,6 @@
+## will be releasing updated version and working one laterrrrr (february 16 2022)
+
+
 # 📦 jsFlake
 
 <h1>
