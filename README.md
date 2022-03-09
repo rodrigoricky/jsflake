@@ -1,3 +1,5 @@
+i forgot github exist, bye.
+
 ## will be releasing updated version and working one laterrrrr (february 16 2022)
 
 
